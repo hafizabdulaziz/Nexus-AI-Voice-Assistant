@@ -35,7 +35,7 @@ Nexus follows a modular architecture:
 ## Project Structure
 
 ```
-nexus_voice_assistant/
+rhombixtechnologies_tasks/
 ├── assets/             # Project assets
 ├── screenshots/        # Saved screenshots
 ├── voice_assistant/    # Source code package
@@ -54,14 +54,14 @@ nexus_voice_assistant/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/hafizabdulaziz/Nexus-AI-Voice-Assistant.git
-   cd Nexus-AI-Voice-Assistant
+   git clone https://github.com/hafizabdulaziz/rhombixtechnologies_tasks.git
+   cd rhombixtechnologies_tasks
    ```
 
 2. Create a virtual environment:
    ```bash
    python -m venv .venv
-   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   .venv\Scripts\activate  # On Windows
    ```
 
 3. Install dependencies:

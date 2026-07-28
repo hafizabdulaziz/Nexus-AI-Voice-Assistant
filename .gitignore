@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data
+user_data.json
+*.log
+
+# System/IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Assets/Generated
+screenshots/*.png
+!screenshots/.gitkeep
